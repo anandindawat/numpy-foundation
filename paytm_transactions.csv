@@ -1,0 +1,5 @@
+txn_id;amount;status;discount
+TXN1001;250;Success;10
+TXN1002;1200;Success;
+TXN1003;500;Failed;5
+TXN1004;80;Success;
