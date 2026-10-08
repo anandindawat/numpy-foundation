@@ -1,0 +1,7 @@
+order_id,restaurant_name,item_name,item_price,quantity,order_time,delivery_time_min
+1001,Dominos,Farmhouse Pizza,450,1,19:30,28
+1002,Burger King,Whopper Meal,320,2,20:15,35
+1003,Subway,Veggie Delite Sub,240,1,13:10,22
+1004,KFC,Zinger Burger,210,2,21:05,30
+1005,Haldiram's,Chole Bhature,180,1,12:45,25
+1006,Biryani By Kilo,Chicken Biryani,490,1,20:40,40
